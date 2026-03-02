@@ -133,11 +133,15 @@
         text-align: center;
     }
 
-    .diary-title {
+    .diary-title-pc {
         font-size: 1.4rem;
         line-height: 4rem;
         font-weight: bold;
         color: black;
         text-shadow: 0.1rem 0.1rem 4px yellowgreen;
+    }
+
+    .diary-title-ms {
+        display: none;
     }
 }
