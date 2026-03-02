@@ -1,6 +1,6 @@
 /*デフォルト表示設定*/
 
-@media screen and (min-width: 960px) {
+@media screen and (min-width: 961px) {
     body {
         background-color: azure;
     }
@@ -142,3 +142,4 @@
     }
 
 }
+
