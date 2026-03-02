@@ -20,8 +20,8 @@
 
         /*画面左下に固定*/
         position: fixed;
-        bottom: 20px;
-        right: 60px;
+        bottom: 100px;
+        right: 80px;
         z-index: 999;
     }
 
@@ -200,4 +200,5 @@
         color: black;
         text-shadow: 0.1rem 0.1rem 2px red;
     }
+
 }
