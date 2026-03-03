@@ -44,7 +44,7 @@
         font-weight: bold;
         font-family: sans-serif;
         color: black;
-        text-shadow: 0.25rem 0.25rem 2px gray;
+        text-shadow: 0.1rem 0.1rem 2px gray;
         cursor: pointer;
     }
 
@@ -54,7 +54,7 @@
         font-weight: bold;
         font-family: sans-serif;
         color: black;
-        text-shadow: 0.25rem 0.25rem 2px gray;
+        text-shadow: 0.1rem 0.1rem 2px gray;
         cursor: pointer;
     }
 
@@ -205,3 +205,4 @@
         display: none;
     }
 }
+
