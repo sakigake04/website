@@ -84,6 +84,40 @@
         background-color: navy;
     }
 
+    .ms-screen {
+        width: 90%;
+        height: 10rem;
+        display: flex;
+        margin: 0 auto;
+    }
+
+    .msc-left {
+        width: 50%;
+        height: 100%;
+    }
+
+    .onlyms-screen-left {
+        width: 100%;
+        height: 100%;
+        object-fit: scale-down;
+    }
+
+    .msc-void {
+        width: 2%;
+        height: 100%;
+    }
+
+    .msc-right {
+        width: 48%;
+        height: 100%;
+    }
+
+    .onlyms-screen-right {
+        width: 100%;
+        height: 100%;
+        object-fit: scale-down;
+    }
+
     .topic-content {
         width: 100%;
         display: block;
@@ -197,6 +231,7 @@
     }
 
 }
+
 
 
 
