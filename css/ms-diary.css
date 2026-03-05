@@ -1,5 +1,4 @@
-/*スマホ・タブレット向け*/
-
+/*for mobiles*/
 @media screen and (max-width: 960px) {
     body {
         background-color: azure;
@@ -146,3 +145,4 @@
     }
 
 }
+
