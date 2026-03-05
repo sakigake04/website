@@ -10,7 +10,7 @@
     }
 
     .diary-button {
-        diplay: grid;
+        display: grid;
         width: 75px;
         height: 75px;
         background-color: lightyellow;
@@ -197,5 +197,6 @@
     }
 
 }
+
 
 
